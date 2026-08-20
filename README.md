@@ -9,7 +9,7 @@ Por ejemplo:
 Entrada: *"cuándo salimos para la uba ya se hace tarde por dónde andarán"*\
 Salida: *"¿Cuándo salimos para la UBA? Ya se hace tarde. ¿Por dónde andarán?"*
 
-En el archivo Presentacion_AA2.pdf se pueden leer los resultados finales que obtuvimos de los distintos modelos que entrenamos y algunas conclusiones.
+En el archivo AA2-Poster-Final-TP2.pdf se pueden leer los resultados finales que obtuvimos de los distintos modelos que entrenamos y algunas conclusiones.
 
 En los distintos notebooks se encuentra el código utilizado para entrenar a los distintos modelos.
 
